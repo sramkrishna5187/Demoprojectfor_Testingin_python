@@ -1,0 +1,456 @@
+1675240940187	geckodriver	INFO	Listening on 127.0.0.1:52847
+1675240940739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileQbSC34"
+1675240940992	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675240940996	Marionette	INFO	Listening on port 52853
+WebDriver BiDi listening on ws://127.0.0.1:52848
+Read port: 52853
+1675240941183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileQbSC34\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52848/devtools/browser/624df81c-bd47-43cc-b1ea-1a68bea57040
+1675241098579	Marionette	INFO	Stopped listening on port 52853
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileb1TXns"
+1675240975552	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675240975556	Marionette	INFO	Listening on port 52944
+WebDriver BiDi listening on ws://127.0.0.1:52930
+Read port: 52944
+1675240975738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileb1TXns\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52930/devtools/browser/1bcf3174-ccaf-4a3b-861c-568b9cd7cadf
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1675241098584	Marionette	INFO	Stopped listening on port 52944
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675241101836	geckodriver	INFO	Listening on 127.0.0.1:53114
+1675241102356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileFAiOYQ"
+1675241102613	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675241102618	Marionette	INFO	Listening on port 53121
+WebDriver BiDi listening on ws://127.0.0.1:53115
+Read port: 53121
+1675241102716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileFAiOYQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53115/devtools/browser/890f06b3-3cdf-4290-b501-c6f730a846c5
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675245581467	Marionette	INFO	Stopped listening on port 53121
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilevA4IHB"
+1675243705641	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675243705644	Marionette	INFO	Listening on port 61404
+Read port: 61404
+WebDriver BiDi listening on ws://127.0.0.1:61399
+1675243705742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilevA4IHB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61399/devtools/browser/422f37f4-dcfc-44fa-a29d-a37365a98476
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675245581170	Marionette	INFO	Stopped listening on port 61404
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileE6dxR4"
+1675243743119	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675243743125	Marionette	INFO	Listening on port 61475
+WebDriver BiDi listening on ws://127.0.0.1:61470
+Read port: 61475
+1675243743314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileE6dxR4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61470/devtools/browser/9900dee8-fc33-49e3-b71f-bf3517cbcde2
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675245580905	Marionette	INFO	Stopped listening on port 61475
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 45096, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+stening on port 61592
+Read port: 61592
+WebDriver BiDi listening on ws://127.0.0.1:61587
+1675243831187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileQO0iXo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61587/devtools/browser/fd7d7bff-e574-4e56-bbe2-a2f0ecdba24d
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675245580637	Marionette	INFO	Stopped listening on port 61592
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileW3gx5P"
+1675243877547	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675243877551	Marionette	INFO	Listening on port 53035
+WebDriver BiDi listening on ws://127.0.0.1:53029
+Read port: 53035
+1675243877701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileW3gx5P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53029/devtools/browser/39e3376b-2543-449b-b661-c023c5ae1213
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675245580386	Marionette	INFO	Stopped listening on port 53035
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilecYZUvs"
+1675244110534	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675244110538	Marionette	INFO	Listening on port 53267
+WebDriver BiDi listening on ws://127.0.0.1:53262
+Read port: 53267
+1675244110731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilecYZUvs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53262/devtools/browser/6c312945-b366-4b55-9d27-45cbcd8d9a71
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675245580128	Marionette	INFO	Stopped listening on port 53267
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileoamSRL"
+1675244174928	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675244174933	Marionette	INFO	Listening on port 53381
+Read port: 53381
+WebDriver BiDi listening on ws://127.0.0.1:53376
+1675244175037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileoamSRL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53376/devtools/browser/301a0890-6824-4bb7-af8b-e586693eef10
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675245579867	Marionette	INFO	Stopped listening on port 53381
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileFdlKcB"
+1675244244767	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675244244771	Marionette	INFO	Listening on port 53487
+WebDriver BiDi listening on ws://127.0.0.1:53482
+Read port: 53487
+1675244244927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileFdlKcB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53482/devtools/browser/d6541b81-481d-49d9-9888-26d1486aeea8
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675245579596	Marionette	INFO	Stopped listening on port 53487
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileDaEiW4"
+1675244331353	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675244331357	Marionette	INFO	Listening on port 53610
+WebDriver BiDi listening on ws://127.0.0.1:53605
+Read port: 53610
+1675244331539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileDaEiW4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53605/devtools/browser/bc6e0791-4bdb-4943-b6e5-661096eecad4
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675245579315	Marionette	INFO	Stopped listening on port 53610
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilet3s4c5"
+1675245216567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675245216572	Marionette	INFO	Listening on port 64831
+Read port: 64831
+WebDriver BiDi listening on ws://127.0.0.1:64825
+1675245216676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilet3s4c5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64825/devtools/browser/88644871-1a0d-4819-a875-effe011ad82f
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1675245579068	Marionette	INFO	Stopped listening on port 64831
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileMdqIdW"
+1675245276793	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675245276799	Marionette	INFO	Listening on port 64928
+Read port: 64928
+WebDriver BiDi listening on ws://127.0.0.1:64923
+1675245276899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileMdqIdW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64923/devtools/browser/15efb94e-fedc-472f-897a-d4209a012ae4
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1675245578826	Marionette	INFO	Stopped listening on port 64928
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+window occlusion 0
+1675245344887	Marionette	INFO	Listening on port 65035
+WebDriver BiDi listening on ws://127.0.0.1:65029
+Read port: 65035
+1675245345065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile0SWI1w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65029/devtools/browser/7a1743ed-f8c4-40c7-b280-6e0cd104ad39
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1675245578558	Marionette	INFO	Stopped listening on port 65035
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileNyydFR"
+1675245414948	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675245414953	Marionette	INFO	Listening on port 65137
+Read port: 65137
+WebDriver BiDi listening on ws://127.0.0.1:65132
+1675245415035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileNyydFR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65132/devtools/browser/334a4f2f-1c48-4cc0-8b41-9e6db9b5a9f3
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://blazedemo.com."
+JavaScript error: https://blazedemo.com/assets/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://blazedemo.com/assets/bootstrap-table.js, line 1126: ReferenceError: jQuery is not defined
+1675245577561	Marionette	INFO	Stopped listening on port 65137
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675247908356	geckodriver	INFO	Listening on 127.0.0.1:62145
+1675247908912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileZnXmoN"
+1675247909159	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675247909163	Marionette	INFO	Listening on port 62152
+WebDriver BiDi listening on ws://127.0.0.1:62146
+Read port: 62152
+1675247909360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileZnXmoN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62146/devtools/browser/5490aad6-6b09-4264-aef3-f0dd687494ee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675249523963	Marionette	INFO	Stopped listening on port 62152
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+ata\\Local\\Temp\\rust_mozprofileCzxpTJ"
+1675249245596	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675249245601	Marionette	INFO	Listening on port 52992
+WebDriver BiDi listening on ws://127.0.0.1:52987
+Read port: 52992
+1675249245802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileCzxpTJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52987/devtools/browser/19ed906f-a68d-4217-a845-64d6194c76e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1675249523967	Marionette	INFO	Stopped listening on port 52992
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilekdlLOe"
+1675249336540	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675249336544	Marionette	INFO	Listening on port 59025
+WebDriver BiDi listening on ws://127.0.0.1:59020
+Read port: 59025
+1675249336727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilekdlLOe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59020/devtools/browser/3db86b1c-2723-4e3d-aa83-d00d43ed2218
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1675249523964	Marionette	INFO	Stopped listening on port 59025
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileTaAqVb"
+1675249381276	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675249381280	Marionette	INFO	Listening on port 59125
+Read port: 59125
+WebDriver BiDi listening on ws://127.0.0.1:59119
+1675249381389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileTaAqVb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59119/devtools/browser/6b92dda2-3a33-4543-bd47-c23999ce6465
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1675249523971	Marionette	INFO	Stopped listening on port 59125
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1675264133624	geckodriver	INFO	Listening on 127.0.0.1:55052
+1675264134173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileGH3b5t"
+1675264134684	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675264134690	Marionette	INFO	Listening on port 55058
+Read port: 55058
+WebDriver BiDi listening on ws://127.0.0.1:55053
+1675264134798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileGH3b5t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55053/devtools/browser/9c98f542-63bc-4d96-b11f-e490689132cb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675314445558	Marionette	INFO	Stopped listening on port 55058
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilekJVVhP"
+1675264207095	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675264207099	Marionette	INFO	Listening on port 55189
+Read port: 55189
+WebDriver BiDi listening on ws://127.0.0.1:55181
+1675264207206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilekJVVhP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55181/devtools/browser/a349d000-3f26-4fdc-8bc7-8b821e7281f4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675314445713	Marionette	INFO	Stopped listening on port 55189
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "55434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileEkYyGc"
+1675264402093	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675264402096	Marionette	INFO	Listening on port 55439
+Read port: 55439
+WebDriver BiDi listening on ws://127.0.0.1:55434
+1675264402204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileEkYyGc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55434/devtools/browser/c19f08d0-95bc-42c8-9cb1-f2e9e692becf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675314445659	Marionette	INFO	Stopped listening on port 55439
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileAynS3P"
+1675264534260	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675264534264	Marionette	INFO	Listening on port 55624
+Read port: 55624
+WebDriver BiDi listening on ws://127.0.0.1:55619
+1675264534367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileAynS3P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55619/devtools/browser/2f3f9771-b574-47da-adbd-b8518f966b81
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675314445498	Marionette	INFO	Stopped listening on port 55624
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilekj1ZDX"
+1675266743502	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675266743506	Marionette	INFO	Listening on port 56710
+WebDriver BiDi listening on ws://127.0.0.1:56705
+Read port: 56710
+1675266743606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilekj1ZDX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56705/devtools/browser/ade7ffad-5e61-42c0-bbfc-a7317ca90fe9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675314445495	Marionette	INFO	Stopped listening on port 56710
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileyiT37i"
+1675266802108	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675266802112	Marionette	INFO	Listening on port 56815
+WebDriver BiDi listening on ws://127.0.0.1:56808
+Read port: 56815
+1675266802269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileyiT37i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56808/devtools/browser/7c19a39c-aaf4-4337-95ca-5df70bdff78c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675314445531	Marionette	INFO	Stopped listening on port 56815
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile7qDzXa"
+1675267065998	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675267066002	Marionette	INFO	Listening on port 57115
+Read port: 57115
+WebDriver BiDi listening on ws://127.0.0.1:57109
+1675267066103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile7qDzXa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57109/devtools/browser/d440dbc4-b20d-4a9f-9617-16cb3ee2a4a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675272244491	Marionette	INFO	Stopped listening on port 57115
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675335420410	geckodriver	INFO	Listening on 127.0.0.1:64143
+1675335420950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile3uieo3"
+1675335421213	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675335421217	Marionette	INFO	Listening on port 64149
+Read port: 64149
+WebDriver BiDi listening on ws://127.0.0.1:64144
+1675335421325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile3uieo3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64144/devtools/browser/e80baabf-5516-4523-ad45-8f5d9a3d1821
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SARRAMAK\AppData\Local\Temp\rust_mozprofile3uieo3\bookmarkbackups\bookmarks-2023-02-02_11_S---UlVD9YfMacEH5R8UgA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675446470275	Marionette	INFO	Stopped listening on port 64149
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>abc test.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #0033b3;}
+.s1 { color: #080808;}
+.s2 { color: #067d17;}
+.s3 { color: #1750eb;}
+</style>
+</head>
+<body bgcolor="#ffffff">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+abc test.py</font>
+</center></td></tr></table>
+<pre><span class="s0">from </span><span class="s1">selenium.webdriver.common.by </span><span class="s0">import </span><span class="s1">By</span>
+<span class="s0">from </span><span class="s1">selenium </span><span class="s0">import </span><span class="s1">webdriver</span>
+<span class="s0">from </span><span class="s1">time </span><span class="s0">import </span><span class="s1">sleep</span>
+
+<span class="s1">browser = webdriver.Chrome()</span>
+<span class="s1">browser.get(</span><span class="s2">'https://event.brawlstars.com/ru/'</span><span class="s1">)</span>
+<span class="s1">sleep(</span><span class="s3">3</span><span class="s1">)</span>
+<span class="s1">browser.find_element(By.XPATH, </span><span class="s2">'/html/body/div[2]/div/div/div[1]/nav/div/div/div/div/button/div/div'</span><span class="s1">).click()</span></pre>
+</body>
+</html>

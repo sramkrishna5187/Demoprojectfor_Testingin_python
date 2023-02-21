@@ -1,0 +1,26 @@
+1667382582785	geckodriver	INFO	Listening on 127.0.0.1:57035
+1667382583315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileOyd6C3"
+1667382583570	Marionette	INFO	Marionette enabled
+1667382583574	Marionette	INFO	Listening on port 57043
+WebDriver BiDi listening on ws://127.0.0.1:57036
+Read port: 57043
+1667382583749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileOyd6C3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57036/devtools/browser/6a49bf90-9d6c-4a15-b793-bcf8e0fd20e5
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1667386395503	Marionette	INFO	Stopped listening on port 57043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileArt9oC"
+1667382687578	Marionette	INFO	Marionette enabled
+1667382687582	Marionette	INFO	Listening on port 57523
+WebDriver BiDi listening on ws://127.0.0.1:57515
+Read port: 57523
+1667382687750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileArt9oC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57515/devtools/browser/431d55be-8da2-4b56-9136-91c2b255ebb1
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1667382771766	Marionette	INFO	Stopped listening on port 57523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

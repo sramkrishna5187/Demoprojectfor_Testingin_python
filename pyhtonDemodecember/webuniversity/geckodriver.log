@@ -1,0 +1,689 @@
+1675752544789	geckodriver	INFO	Listening on 127.0.0.1:55045
+1675752544820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile98EexU"
+1675752545672	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675752545677	Marionette	INFO	Listening on port 55051
+Read port: 55051
+WebDriver BiDi listening on ws://127.0.0.1:55046
+1675752545793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile98EexU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55046/devtools/browser/a41e85e8-c915-42f0-9983-ef6ac0f81429
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675759621641	Marionette	INFO	Stopped listening on port 55051
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile8jdQxG"
+1675757576073	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675757576077	Marionette	INFO	Listening on port 63145
+Read port: 63145
+WebDriver BiDi listening on ws://127.0.0.1:63138
+1675757576183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile8jdQxG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63138/devtools/browser/eb04dcf3-e45f-4488-8bfd-c093c8ccd219
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675759621538	Marionette	INFO	Stopped listening on port 63145
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "55931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile3kD28q"
+1675757693837	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675757693842	Marionette	INFO	Listening on port 55936
+WebDriver BiDi listening on ws://127.0.0.1:55931
+Read port: 55936
+1675757694012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile3kD28q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55931/devtools/browser/823ce84b-5719-43bc-af21-7416102f6c3a
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675759621553	Marionette	INFO	Stopped listening on port 55936
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "63120" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileZnPap1"
+1675757856058	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675757856064	Marionette	INFO	Listening on port 63125
+Read port: 63125
+WebDriver BiDi listening on ws://127.0.0.1:63120
+1675757856152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileZnPap1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63120/devtools/browser/ba182236-c4e5-4d4f-be44-62f903fb219e
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675759621538	Marionette	INFO	Stopped listening on port 63125
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+sts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilejAYvu9"
+1675758063354	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675758063359	Marionette	INFO	Listening on port 63325
+Read port: 63325
+WebDriver BiDi listening on ws://127.0.0.1:63319
+1675758063456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilejAYvu9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63319/devtools/browser/2d06815c-36d0-4ef0-996e-55ada9967132
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675759621538	Marionette	INFO	Stopped listening on port 63325
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileb8xUly"
+1675759319464	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675759319469	Marionette	INFO	Listening on port 49758
+Read port: 49758
+WebDriver BiDi listening on ws://127.0.0.1:49753
+1675759319562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileb8xUly\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49753/devtools/browser/271037d6-6446-4114-a8a3-da093c0f349b
+1675759621545	Marionette	INFO	Stopped listening on port 49758
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilesv2PHH"
+1675759443923	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675759443929	Marionette	INFO	Listening on port 49903
+Read port: 49903
+WebDriver BiDi listening on ws://127.0.0.1:49898
+1675759444022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilesv2PHH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49898/devtools/browser/4577b5bd-5ec9-4c22-8289-ed364a7a769d
+1675759615778	Marionette	INFO	Stopped listening on port 49903
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilexv1ubf"
+1675759526779	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675759526784	Marionette	INFO	Listening on port 50009
+WebDriver BiDi listening on ws://127.0.0.1:50004
+Read port: 50009
+1675759526892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilexv1ubf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50004/devtools/browser/8e638cda-4643-4a79-b82b-4adfe071eb7a
+1675759614541	Marionette	INFO	Stopped listening on port 50009
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileLrnU73"
+1675759569524	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675759569529	Marionette	INFO	Listening on port 50074
+Read port: 50074
+WebDriver BiDi listening on ws://127.0.0.1:50069
+1675759569621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileLrnU73\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50069/devtools/browser/82f1c08e-aebd-4626-94aa-53481a673af7
+1675759612011	Marionette	INFO	Stopped listening on port 50074
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675759638801	geckodriver	INFO	Listening on 127.0.0.1:50173
+1675759639318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50174" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilel7Yh7u"
+1675759639589	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675759639593	Marionette	INFO	Listening on port 50179
+Read port: 50179
+WebDriver BiDi listening on ws://127.0.0.1:50174
+1675759639695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilel7Yh7u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50174/devtools/browser/6bf2c0ab-bea1-4486-add6-ad3b47f4b6bc
+1675759937663	Marionette	INFO	Stopped listening on port 50179
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofiledtQGor"
+1675759701222	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675759701226	Marionette	INFO	Listening on port 50268
+WebDriver BiDi listening on ws://127.0.0.1:50262
+Read port: 50268
+1675759701409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofiledtQGor\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50262/devtools/browser/7ba24ef0-91b2-49cf-9304-680a08ae6ff9
+1675759937670	Marionette	INFO	Stopped listening on port 50268
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileqJaiyH"
+1675759792189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675759792192	Marionette	INFO	Listening on port 50385
+WebDriver BiDi listening on ws://127.0.0.1:50379
+Read port: 50385
+1675759792379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileqJaiyH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50379/devtools/browser/ceeaef16-6bfa-4c70-82a8-c6ac8c1bdcc2
+1675759937671	Marionette	INFO	Stopped listening on port 50385
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilef3USKK"
+1675759857107	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675759857111	Marionette	INFO	Listening on port 50477
+WebDriver BiDi listening on ws://127.0.0.1:50472
+Read port: 50477
+1675759857294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilef3USKK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50472/devtools/browser/8bc5f174-c017-41bf-9d42-f5a0141674a5
+1675759937675	Marionette	INFO	Stopped listening on port 50477
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675760343757	geckodriver	INFO	Listening on 127.0.0.1:51004
+1675760344298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileGN1zFR"
+1675760344565	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675760344569	Marionette	INFO	Listening on port 51011
+Read port: 51011
+WebDriver BiDi listening on ws://127.0.0.1:51005
+1675760344671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileGN1zFR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51005/devtools/browser/bf7f27fc-be1d-4b22-851c-0a260437ccd4
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675777505270	Marionette	INFO	Stopped listening on port 51011
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileY3XLXL"
+1675763068907	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675763068911	Marionette	INFO	Listening on port 52538
+WebDriver BiDi listening on ws://127.0.0.1:52532
+Read port: 52538
+1675763069094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileY3XLXL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52532/devtools/browser/6ec0490a-2662-4631-9ec4-a87bd39396b8
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675777505249	Marionette	INFO	Stopped listening on port 52538
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileM4sFFO"
+1675763906921	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675763906925	Marionette	INFO	Listening on port 53022
+WebDriver BiDi listening on ws://127.0.0.1:53017
+Read port: 53022
+1675763907109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileM4sFFO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53017/devtools/browser/d8fcdf5d-8fa6-4803-8d16-eaf5ad92d456
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675777505305	Marionette	INFO	Stopped listening on port 53022
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileWrSW21"
+1675775475008	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675775475016	Marionette	INFO	Listening on port 52974
+Read port: 52974
+WebDriver BiDi listening on ws://127.0.0.1:52969
+1675775475162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileWrSW21\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52969/devtools/browser/c307dd2c-6b92-45bc-8e33-00d368f2b9e2
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675777505025	Marionette	INFO	Stopped listening on port 52974
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileaXpbQg"
+1675775532163	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675775532168	Marionette	INFO	Listening on port 53058
+Read port: 53058
+WebDriver BiDi listening on ws://127.0.0.1:53052
+1675775532287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileaXpbQg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53052/devtools/browser/7b812d03-4853-4a2c-8af7-bc8409caca4c
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675777504971	Marionette	INFO	Stopped listening on port 53058
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+37	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675775655844	Marionette	INFO	Listening on port 53168
+Read port: 53168
+WebDriver BiDi listening on ws://127.0.0.1:53163
+1675775656017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilerhZU9c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53163/devtools/browser/ffc0bbe4-bea2-446d-b62f-21a8d8a37926
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675777504985	Marionette	INFO	Stopped listening on port 53168
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileqacADl"
+1675775743764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675775743771	Marionette	INFO	Listening on port 53259
+Read port: 53259
+WebDriver BiDi listening on ws://127.0.0.1:53254
+1675775743923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileqacADl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53254/devtools/browser/c7f20c81-44cf-4c9c-8248-fdb8c50798cf
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675777504972	Marionette	INFO	Stopped listening on port 53259
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilet6v3KX"
+1675777474011	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675777474015	Marionette	INFO	Listening on port 56399
+WebDriver BiDi listening on ws://127.0.0.1:56394
+Read port: 56399
+1675777474209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilet6v3KX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56394/devtools/browser/6ded8f70-684e-4f33-a89f-41831b97cb78
+1675777505223	Marionette	INFO	Stopped listening on port 56399
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1675777510730	geckodriver	INFO	Listening on 127.0.0.1:56462
+1675777511266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilefdKqeL"
+1675777511541	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675777511545	Marionette	INFO	Listening on port 56469
+Read port: 56469
+WebDriver BiDi listening on ws://127.0.0.1:56463
+1675777511637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilefdKqeL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56463/devtools/browser/9ebd5ce8-f482-4376-81f4-886e7e1ddcc6
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SARRAMAK\AppData\Local\Temp\rust_mozprofilefdKqeL\bookmarkbackups\bookmarks-2023-02-07_11_NGxNE3YBVfdn6MBpWnVk8w==.jsonlz4) because it does not exist
+1675852881280	Marionette	INFO	Stopped listening on port 56469
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ning on ws://127.0.0.1:56570
+Read port: 56576
+1675777631278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileJDmWM5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56570/devtools/browser/ebb00594-d868-4cca-af5d-9abcd8db07d4
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SARRAMAK\AppData\Local\Temp\rust_mozprofileJDmWM5\bookmarkbackups\bookmarks-2023-02-07_11_QyikVxRTYUrHiRC4nm2VYA==.jsonlz4) because it does not exist
+1675852880259	Marionette	INFO	Stopped listening on port 56576
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 29620, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rs\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilerMbEW1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56781/devtools/browser/d3ab264a-9b86-4f33-9bc5-20a883fe4c8a
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675852880163	Marionette	INFO	Stopped listening on port 56786
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile2ccwiB"
+1675778100893	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675778100897	Marionette	INFO	Listening on port 57047
+WebDriver BiDi listening on ws://127.0.0.1:57041
+Read port: 57047
+1675778101084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile2ccwiB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57041/devtools/browser/45ec7365-ad2f-4441-a29c-0790e4773b6e
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675852880179	Marionette	INFO	Stopped listening on port 57047
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile80xHxU"
+1675778483982	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675778483986	Marionette	INFO	Listening on port 57299
+Read port: 57299
+WebDriver BiDi listening on ws://127.0.0.1:57294
+1675778484087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile80xHxU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57294/devtools/browser/d5cd5426-64c2-48cc-a62c-c40d5ab10db6
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675852880312	Marionette	INFO	Stopped listening on port 57299
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+92	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675778715597	Marionette	INFO	Listening on port 57486
+Read port: 57486
+WebDriver BiDi listening on ws://127.0.0.1:57481
+1675778715692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile2rItVq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57481/devtools/browser/d49545e1-6d56-4ef2-98ea-8bf275e9a868
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675852879997	Marionette	INFO	Stopped listening on port 57486
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+26	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675778826130	Marionette	INFO	Listening on port 57596
+WebDriver BiDi listening on ws://127.0.0.1:57591
+Read port: 57596
+1675778826295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileIdbjFz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57591/devtools/browser/95ef544f-f739-42af-ac8c-537eba5cee17
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SARRAMAK\AppData\Local\Temp\rust_mozprofileIdbjFz\bookmarkbackups\bookmarks-2023-02-07_11_Vzmk2xldBtolYhtRowxu9w==.jsonlz4) because it does not exist
+1675852880129	Marionette	INFO	Stopped listening on port 57596
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileHZ1XPE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57661/devtools/browser/d535c4fe-15fb-41dd-bc6d-17f6068bbd87
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SARRAMAK\AppData\Local\Temp\rust_mozprofileHZ1XPE\bookmarkbackups\bookmarks-2023-02-07_11_4kSSJ06KG3cuTfJwQCRvBA==.jsonlz4) because it does not exist
+1675852879962	Marionette	INFO	Stopped listening on port 57666
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+ata\\Local\\Temp\\rust_mozprofileqvp8ax"
+1675850978746	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675850978753	Marionette	INFO	Listening on port 56751
+WebDriver BiDi listening on ws://127.0.0.1:56746
+Read port: 56751
+1675850979044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileqvp8ax\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56746/devtools/browser/1d0ba3b0-5a16-4205-9f05-cf94f1d6b06a
+1675851329464	Marionette	INFO	Stopped listening on port 56751
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56876" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileAGzVT8"
+1675851090622	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675851090629	Marionette	INFO	Listening on port 56881
+Read port: 56881
+WebDriver BiDi listening on ws://127.0.0.1:56876
+1675851090766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileAGzVT8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56876/devtools/browser/206a8974-78d2-4db1-9e14-079b89998d54
+1675851211617	Marionette	INFO	Stopped listening on port 56881
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675851244474	geckodriver	INFO	Listening on 127.0.0.1:52949
+1675851245012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileHP1eHX"
+1675851245401	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675851245409	Marionette	INFO	Listening on port 52955
+Read port: 52955
+WebDriver BiDi listening on ws://127.0.0.1:52950
+1675851245555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileHP1eHX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52950/devtools/browser/37ced9ce-b548-4944-b69f-b2fb93251435
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675852879914	Marionette	INFO	Stopped listening on port 52955
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 30428, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1675920763383	geckodriver	INFO	Listening on 127.0.0.1:53129
+1675920763435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileBKCmwb"
+1675920763741	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675920763745	Marionette	INFO	Listening on port 53135
+Read port: 53135
+WebDriver BiDi listening on ws://127.0.0.1:53130
+1675920763853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileBKCmwb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53130/devtools/browser/8bb63792-2b26-4f30-a655-e838494dad93
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522374	Marionette	INFO	Stopped listening on port 53135
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileMuJokt"
+1675921076409	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675921076413	Marionette	INFO	Listening on port 59283
+WebDriver BiDi listening on ws://127.0.0.1:59278
+Read port: 59283
+1675921076593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileMuJokt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59278/devtools/browser/7761386b-f01a-46be-a1c7-f5a0da89c60d
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522580	Marionette	INFO	Stopped listening on port 59283
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+82	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675921369785	Marionette	INFO	Listening on port 54994
+WebDriver BiDi listening on ws://127.0.0.1:54988
+Read port: 54994
+1675921369971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile3WSpxO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54988/devtools/browser/eecba5d6-c80b-4692-866a-4df396ff726e
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522570	Marionette	INFO	Stopped listening on port 54994
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileMOtvSC"
+1675921482426	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675921482433	Marionette	INFO	Listening on port 55087
+WebDriver BiDi listening on ws://127.0.0.1:55082
+Read port: 55087
+1675921482631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileMOtvSC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55082/devtools/browser/7ee18f80-0a72-4ef9-9504-ce7f5791428d
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522478	Marionette	INFO	Stopped listening on port 55087
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileGc5J0j"
+1675921693960	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675921693965	Marionette	INFO	Listening on port 55247
+WebDriver BiDi listening on ws://127.0.0.1:55242
+Read port: 55247
+1675921694115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileGc5J0j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55242/devtools/browser/138bf3d5-c552-4e1b-b6be-8896fae112df
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522271	Marionette	INFO	Stopped listening on port 55247
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+ata\\Local\\Temp\\rust_mozprofileged6Tt"
+1675922723586	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675922723590	Marionette	INFO	Listening on port 53918
+WebDriver BiDi listening on ws://127.0.0.1:53912
+Read port: 53918
+1675922723773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileged6Tt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53912/devtools/browser/983373eb-eba9-4bc0-b132-02c44a791127
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522228	Marionette	INFO	Stopped listening on port 53918
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+68	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675923179973	Marionette	INFO	Listening on port 51463
+Read port: 51463
+WebDriver BiDi listening on ws://127.0.0.1:51457
+1675923180101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilesDzKze\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51457/devtools/browser/0ba7e27d-80b3-4f91-8fcf-672531221c93
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522197	Marionette	INFO	Stopped listening on port 51463
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+52	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675923560557	Marionette	INFO	Listening on port 52225
+Read port: 52225
+WebDriver BiDi listening on ws://127.0.0.1:52220
+1675923560663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilejOBpFJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52220/devtools/browser/be7f78e2-9cf0-4352-9853-c285fb5d2479
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522564	Marionette	INFO	Stopped listening on port 52225
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileyE8skM"
+1675923611995	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675923612000	Marionette	INFO	Listening on port 52309
+Read port: 52309
+WebDriver BiDi listening on ws://127.0.0.1:52304
+1675923612121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileyE8skM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52304/devtools/browser/f1b4cf03-2545-4d16-a417-4d18056e5901
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522387	Marionette	INFO	Stopped listening on port 52309
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile7vm98J"
+1675923671503	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675923671507	Marionette	INFO	Listening on port 62755
+Read port: 62755
+WebDriver BiDi listening on ws://127.0.0.1:62749
+1675923671628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile7vm98J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62749/devtools/browser/85e6a395-c6c2-42c7-b4b5-70f6c92fe46f
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522194	Marionette	INFO	Stopped listening on port 62755
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilep7iYJG"
+1675923865724	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675923865729	Marionette	INFO	Listening on port 63234
+Read port: 63234
+WebDriver BiDi listening on ws://127.0.0.1:63228
+1675923865837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilep7iYJG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63228/devtools/browser/f33587fb-b722-42a0-a965-9eba31e931a1
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941522060	Marionette	INFO	Stopped listening on port 63234
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilecS7kXu"
+1675932973487	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675932973493	Marionette	INFO	Listening on port 62648
+Read port: 62648
+WebDriver BiDi listening on ws://127.0.0.1:62643
+1675932973641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilecS7kXu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62643/devtools/browser/af2f0c72-ab71-4461-aa17-348d71e020bb
+1675932993319	Marionette	INFO	Stopped listening on port 62648
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675933010194	geckodriver	INFO	Listening on 127.0.0.1:62718
+1675933010719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileFntQQ7"
+1675933011029	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675933011035	Marionette	INFO	Listening on port 62726
+Read port: 62726
+WebDriver BiDi listening on ws://127.0.0.1:62719
+1675933011156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileFntQQ7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62719/devtools/browser/3f87cb9d-39c3-4a50-9c11-9b419581796f
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941423771	Marionette	INFO	Stopped listening on port 62726
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileSLGOWV"
+1675934359419	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675934359425	Marionette	INFO	Listening on port 61659
+Read port: 61659
+WebDriver BiDi listening on ws://127.0.0.1:61654
+1675934359576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileSLGOWV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61654/devtools/browser/9f986f0f-1636-429f-b6a9-cab220d61b78
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941423065	Marionette	INFO	Stopped listening on port 61659
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile1NCwN8"
+1675934440934	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675934440941	Marionette	INFO	Listening on port 61772
+WebDriver BiDi listening on ws://127.0.0.1:61766
+Read port: 61772
+1675934441215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofile1NCwN8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61766/devtools/browser/60521e34-da43-4a15-9dc2-f00cf5bb58cb
+1675934450051	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941421915	Marionette	INFO	Stopped listening on port 61772
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileZ9jJKm"
+1675937422478	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675937422486	Marionette	INFO	Listening on port 58665
+Read port: 58665
+WebDriver BiDi listening on ws://127.0.0.1:58654
+1675937422621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileZ9jJKm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58654/devtools/browser/d4cd100f-b2c8-41d4-a061-04e33efe1305
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941418212	Marionette	INFO	Stopped listening on port 58665
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileGDDdeB"
+1675937478259	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675937478267	Marionette	INFO	Listening on port 58807
+Read port: 58807
+WebDriver BiDi listening on ws://127.0.0.1:58800
+1675937478418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileGDDdeB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58800/devtools/browser/94dfef8b-5626-4a00-a459-458c74962499
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941417484	Marionette	INFO	Stopped listening on port 58807
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileb3fusq"
+1675937612357	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675937612362	Marionette	INFO	Listening on port 53403
+Read port: 53403
+WebDriver BiDi listening on ws://127.0.0.1:53397
+1675937612481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileb3fusq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53397/devtools/browser/83718df8-db23-4b01-a4b0-fdf684d1ae0d
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941416288	Marionette	INFO	Stopped listening on port 53403
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileBDtUqQ"
+1675937876209	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675937876213	Marionette	INFO	Listening on port 54503
+Read port: 54503
+WebDriver BiDi listening on ws://127.0.0.1:54498
+1675937876333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileBDtUqQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54498/devtools/browser/684eeacc-3481-4693-828a-a1d6fbd74c1f
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941414081	Marionette	INFO	Stopped listening on port 54503
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileOWzuxA"
+1675938464450	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675938464455	Marionette	INFO	Listening on port 53249
+Read port: 53249
+WebDriver BiDi listening on ws://127.0.0.1:53244
+1675938464571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileOWzuxA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53244/devtools/browser/b5a833f3-a03c-458e-bbd2-8b3bdc4f9c16
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941396850	Marionette	INFO	Stopped listening on port 53249
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileJq6J6v"
+1675939376814	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675939376818	Marionette	INFO	Listening on port 61759
+Read port: 61759
+WebDriver BiDi listening on ws://127.0.0.1:61754
+1675939376927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofileJq6J6v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61754/devtools/browser/192482ff-336e-478c-89eb-4ae93fa886cd
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941395435	Marionette	INFO	Stopped listening on port 61759
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilemlP8up"
+1675939541048	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675939541052	Marionette	INFO	Listening on port 61980
+Read port: 61980
+WebDriver BiDi listening on ws://127.0.0.1:61975
+1675939541161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARRAMAK\\AppData\\Local\\Temp\\rust_mozprofilemlP8up\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61975/devtools/browser/3d85f5e4-29ff-438c-b0ca-97683e696895
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675941235173	Marionette	INFO	Stopped listening on port 61980
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
