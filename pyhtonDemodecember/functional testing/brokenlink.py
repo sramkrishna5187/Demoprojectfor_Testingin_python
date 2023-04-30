@@ -13,10 +13,9 @@ count=0
 
 for link in allLinks:
     url=link.get_attribute('href')
-    try:
-        res=requests.head(url)
-    except:
-        None
+
+    res=requests.head(url)
+
 
     if res.status_code>=400:
         print(url,res.status_code,"  is broken link")
